@@ -10,7 +10,8 @@ export default  function App(){
   return (
     <Container sx = {{ border: 1, boxShadow: 3, pb: 10}}>
      
-  
+    <img src="real.jpg"></img>
+    <h1 font color="#0C853F"><center>"Real del valle"</center></h1>
     <h1><center>"MiPropioJefe.Tu"</center></h1>
     <Typography
     variant="h3"
